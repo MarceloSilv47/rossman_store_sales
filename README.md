@@ -27,7 +27,7 @@ O XGBoost foi escolhido como modelo após analisar a performance dos modelos com
 
 # 5. O produto final do projeto
 
-Bot no Telegram hospedado no render em que o usuário digita o número da loja e recebe a previsão estimada das próximas 6 semanas.
+Bot no Telegram hospedado no render em que o usuário digita o número da loja e recebe a previsão estimada das próximas 6 semanas. O bot pode ser acessado através desse link: https://t.me/ross_store_bot
 
 # 6. Conclusão 
 
